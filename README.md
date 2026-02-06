@@ -1,4 +1,4 @@
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20260117-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-62-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20260206-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-62-orange)
 
 
 ## 目录 (Table of Contents)
@@ -76,8 +76,12 @@
 
 ### Research Papers <a name="research-papers"></a>
 
-#### 2025 <a name="2025-research"></a>
 
+
+*  Integrating Large Language Model and Lightweight Network for Robust Multimodal Fault Diagnosis in Wheeled Robots   \[[T-MECH 2026](https://ieeexplore.ieee.org/abstract/document/11353350)]
+
+
+#### 2025 <a name="2025-research"></a>
 
 
 *  FR-LLM: Multi-task large language model with signal-to-text encoding and adaptive optimization for joint fault diagnosis and RUL prediction   \[[RESS 2025](https://www.sciencedirect.com/science/article/pii/S0951832025012906)]
